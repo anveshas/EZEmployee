@@ -1,0 +1,7 @@
+Employee ID:123
+Employee Name     :John
+Father's Name     :Jacob
+Employee Contact  :9876543212
+Email Information :john@gmail.com
+Employee position :CEO
+Employee Salary   :4500000
